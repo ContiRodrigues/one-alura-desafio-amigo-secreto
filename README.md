@@ -23,7 +23,7 @@ O resultado tem a seguinte aparência:
 
 Ao final, será feito o deploy desta aplicação, que ficará disponível no GitHub Pages de forma pública para que qualquer usuário possa visualizar e conhecer a aplicação desenvolvida. 
 
-Link com o deploy no GitHub Pages:
+Link com o deploy no GitHub Pages: https://contirodrigues.github.io/one-alura-desafio-amigo-secreto/
 
 :computer: **Linguagens e recursos utilizados** 
 
